@@ -15,7 +15,7 @@ const faqs = [
   {
     question: "Was ist der Unterschied zwischen FSP und KP?",
     answer:
-      "Die Fachsprachprüfung (FSP) testet Ihre medizinische Kommunikationsfähigkeit auf Deutsch. Die Kenntnisprüfung (KP) prüft Ihr medizinisches Fachwissen. MedMeister bereitet Sie auf beide Prüfungen vor.",
+      "Die Fachsprachprüfung (FSP) testet Ihre medizinische Kommunikationsfähigkeit auf Deutsch. Die Kenntnisprüfung (KP) prüft Ihr medizinisches Fachwissen. KP Med bereitet Sie auf beide Prüfungen vor.",
   },
   {
     question: "Wie realistisch sind die Simulationen?",
@@ -23,9 +23,9 @@ const faqs = [
       "Unsere KI-Simulationen wurden von erfahrenen Ärzten entwickelt und basieren auf echten Prüfungsszenarien. Die Spracherkennung versteht medizinisches Deutsch und reagiert natürlich auf Ihre Antworten.",
   },
   {
-    question: "Kann ich MedMeister auf dem Handy nutzen?",
+    question: "Kann ich KP Med auf dem Handy nutzen?",
     answer:
-      "Ja! MedMeister funktioniert auf allen Geräten – Smartphone, Tablet und Computer. Üben Sie wo und wann Sie möchten.",
+      "Ja! KP Med funktioniert auf allen Geräten – Smartphone, Tablet und Computer. Üben Sie wo und wann Sie möchten.",
   },
   {
     question: "Was passiert nach der kostenlosen Testphase?",
@@ -38,9 +38,9 @@ const faqs = [
       "Ja, wir bieten eine 14-tägige Geld-zurück-Garantie für alle Abonnements.",
   },
   {
-    question: "In welchen Bundesländern ist MedMeister geeignet?",
+    question: "In welchen Bundesländern ist KP Med geeignet?",
     answer:
-      "MedMeister bereitet auf die Prüfungen in allen deutschen Bundesländern vor. Die Grundstruktur von FSP und KP ist bundesweit ähnlich.",
+      "KP Med bereitet auf die Prüfungen in allen deutschen Bundesländern vor. Die Grundstruktur von FSP und KP ist bundesweit ähnlich.",
   },
 ];
 

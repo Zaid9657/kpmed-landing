@@ -23,7 +23,7 @@ export default function AGB() {
           </h2>
           <p className="text-text-secondary mb-4">
             Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge, die
-            zwischen MedMeister und dem Nutzer über die Nutzung der MedMeister Plattform
+            zwischen KP Med und dem Nutzer über die Nutzung der KP Med Plattform
             geschlossen werden.
           </p>
 
@@ -31,7 +31,7 @@ export default function AGB() {
             § 2 Vertragsgegenstand
           </h2>
           <p className="text-text-secondary mb-4">
-            (1) MedMeister bietet eine digitale Lernplattform zur Vorbereitung auf die
+            (1) KP Med bietet eine digitale Lernplattform zur Vorbereitung auf die
             Fachsprachprüfung (FSP) und Kenntnisprüfung (KP) für internationale Ärzte in
             Deutschland an.
           </p>
@@ -105,7 +105,7 @@ export default function AGB() {
             § 8 Haftung
           </h2>
           <p className="text-text-secondary mb-4">
-            (1) MedMeister haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des
+            (1) KP Med haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des
             Körpers oder der Gesundheit.
           </p>
           <p className="text-text-secondary mb-4">

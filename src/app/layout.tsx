@@ -17,17 +17,17 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "MedMeister - FSP & KP Prüfungsvorbereitung für Ärzte",
+  title: "KP Med - FSP & KP Prüfungsvorbereitung für Ärzte",
   description:
-    "Bereiten Sie sich mit KI-gestützten Simulationen auf die Fachsprachprüfung (FSP) und Kenntnisprüfung (KP) vor. Über 1.000 Ärzte vertrauen MedMeister.",
+    "Bereiten Sie sich mit KI-gestützten Simulationen auf die Fachsprachprüfung (FSP) und Kenntnisprüfung (KP) vor. Über 1.000 Ärzte vertrauen KP Med.",
   keywords:
     "FSP, KP, Fachsprachprüfung, Kenntnisprüfung, Ärzte Deutschland, medizinische Prüfung, Approbation",
   openGraph: {
-    title: "MedMeister - FSP & KP Prüfungsvorbereitung",
+    title: "KP Med - FSP & KP Prüfungsvorbereitung",
     description:
       "Die intelligenteste Vorbereitung für internationale Ärzte in Deutschland.",
     url: "https://kpmed.de",
-    siteName: "MedMeister",
+    siteName: "KP Med",
     locale: "de_DE",
     type: "website",
   },

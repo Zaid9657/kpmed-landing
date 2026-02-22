@@ -40,13 +40,13 @@ export default function Solution() {
 
           {/* Logo/Name */}
           <h2 className="text-4xl md:text-5xl font-semibold mb-6 font-[family-name:var(--font-display)]">
-            <span className="text-orange-500">MedMeister</span> – Ihre digitale
+            <span className="text-orange-500">KP Med</span> – Ihre digitale
             Prüfungsvorbereitung
           </h2>
 
           {/* Description */}
           <p className="text-lg md:text-xl text-text-secondary leading-relaxed">
-            Wir haben MedMeister entwickelt, um internationalen Ärzten die
+            Wir haben KP Med entwickelt, um internationalen Ärzten die
             bestmögliche Vorbereitung zu bieten. Mit modernster KI-Technologie
             simulieren wir echte Prüfungssituationen – jederzeit und überall
             verfügbar.

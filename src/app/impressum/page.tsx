@@ -22,7 +22,7 @@ export default function Impressum() {
             Angaben gemäß § 5 TMG
           </h2>
           <p className="text-text-secondary mb-4">
-            MedMeister<br />
+            KP Med<br />
             [Straße und Hausnummer]<br />
             [PLZ Ort]<br />
             Deutschland

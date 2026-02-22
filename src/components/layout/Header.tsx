@@ -41,7 +41,7 @@ export default function Header() {
             className="text-2xl font-bold font-[family-name:var(--font-display)]"
             style={{ color: "var(--orange-600)" }}
           >
-            MedMeister
+            KP Med
           </Link>
 
           {/* Desktop Navigation */}
