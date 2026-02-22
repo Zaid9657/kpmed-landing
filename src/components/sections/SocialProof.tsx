@@ -20,7 +20,7 @@ const stats = [
 const testimonials = [
   {
     quote:
-      "KP Med hat mir geholfen, meine FSP beim ersten Versuch zu bestehen. Die Simulationen waren unglaublich realistisch.",
+      "MedMeister hat mir geholfen, meine FSP beim ersten Versuch zu bestehen. Die Simulationen waren unglaublich realistisch.",
     author: "Dr. Ahmed M.",
     role: "Internist aus Ägypten",
   },

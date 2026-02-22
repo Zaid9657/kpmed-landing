@@ -30,7 +30,7 @@ export default function Footer() {
               href="/"
               className="text-2xl font-bold font-[family-name:var(--font-display)] text-orange-500"
             >
-              KP Med
+              MedMeister
             </Link>
             <p className="mt-4 text-gray-400 max-w-sm leading-relaxed">
               Die intelligente Prüfungsvorbereitung für internationale Ärzte in
@@ -108,7 +108,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-500 text-sm">
-              © 2025 KP Med. Alle Rechte vorbehalten.
+              © 2025 MedMeister. Alle Rechte vorbehalten.
             </p>
             <div className="flex items-center gap-6 text-sm text-gray-500">
               <a

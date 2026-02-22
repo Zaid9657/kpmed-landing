@@ -26,7 +26,7 @@ export default function FinalCTA() {
             Bereit für Ihre Prüfung?
           </h2>
           <p className="text-xl text-white/90 mb-10">
-            Schließen Sie sich über 1.000 Ärzten an, die mit KP Med lernen.
+            Schließen Sie sich über 1.000 Ärzten an, die mit MedMeister lernen.
           </p>
 
           <Link
